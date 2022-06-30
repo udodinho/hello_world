@@ -1,6 +1,5 @@
 version: 2.1
-orbs:
-  welcome: circleci/welcom-orb@0.4.1
+
 jobs:
   save_hello_world_output:
     docker:
