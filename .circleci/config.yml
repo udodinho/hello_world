@@ -17,6 +17,6 @@ jobs:
           id: << parameter.id >>
 
 workflows:
-  my_workflow:
+  welcome:
     jobs:
       - my_job
